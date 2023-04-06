@@ -1,1 +1,1 @@
-# Daily-Code
+# Code Daily
